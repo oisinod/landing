@@ -1,0 +1,29 @@
+.footer{
+  width: 100%;
+  background: linear-gradient(#3fca729c,#3c7e54d7);
+  height: 10vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin: 0;
+}
+
+.footer ul{
+  align-items: center;
+  display: flex;
+  list-style:none;
+  justify-content: space-between;
+}
+
+.contact {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+.footer li{
+  padding: 10px;
+}
+
+.footer i, p{
+  color: white;
+}
